@@ -15,3 +15,7 @@
     color: #ccffff;
     display: block;
 }
+.jumbotron {
+  width:auto;
+  position: fixed;
+}
